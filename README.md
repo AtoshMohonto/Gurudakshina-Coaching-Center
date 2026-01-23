@@ -133,4 +133,4 @@ SSC Special Care | English | Math | ICT
 
 ---
 
-### 📌 “Fail করা শিক্ষার্থী নয়, ভুল সিস্টেমকে Fail করানো”
+### 📌 "Education is not a business here—it is a responsibility.”
